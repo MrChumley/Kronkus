@@ -11,18 +11,18 @@ INCLUDES:
 *Kersex
 
 
-_____________________________________________
+_____________________________________________  
 
-Installation:
-To add the Kronkus planet pack to Kerbal Space Program (1.0.4) copy the Kronkus folder into your <ksp directory>/GameData folder.
+Installation:  
+To add the Kronkus planet pack to Kerbal Space Program (1.0.4) copy the Kronkus folder into your (KSP directory)/GameData folder.  
+  
+Requires Kopernicus, and Module Manager to work!  
+Kopernicus forum thread: http://forum.kerbalspaceprogram.com/threads/114649    
+Module Manager 2.6.8 forum thread: http://forum.kerbalspaceprogram.com/threads/55219  
+  
+The BoulderCo folder contains a cloud texture used by Sketti.  It is only needed if you are using E.V.E. clouds (not included, see links below)  
 
-Requires Kopernicus, and Module Manager to work!
-Kopernicus forum thread: http://forum.kerbalspaceprogram.com/threads/114649  
-Module Manager 2.6.8 forum thread: http://forum.kerbalspaceprogram.com/threads/55219
-
-The BoulderCo folder contains a cloud texture used by Sketti.  It is only needed if you are using E.V.E. clouds (not included, see links below)
-
-_____________________________________________
+_____________________________________________  
 
 
 
