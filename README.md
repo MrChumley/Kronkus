@@ -10,14 +10,22 @@ INCLUDES:
 *Eahpeh
 *Kersex
 
-Requires Kopernicus, and Module Manager!
 
-Kopernicus forum thread: http://forum.kerbalspaceprogram.com/threads/114649  
-
-Module Manager 2.6.8 forum thread: http://forum.kerbalspaceprogram.com/threads/55219
+_____________________________________________
 
 Installation:
-Merge the contents of the GameData folder into the GameData folder found in the install directory of your KSP install.
+To add the Kronkus planet pack to Kerbal Space Program (1.0.4) copy the Kronkus folder into your <ksp directory>/GameData folder.
+
+Requires Kopernicus, and Module Manager to work!
+Kopernicus forum thread: http://forum.kerbalspaceprogram.com/threads/114649  
+Module Manager 2.6.8 forum thread: http://forum.kerbalspaceprogram.com/threads/55219
+
+The BoulderCo folder contains a cloud texture used by Sketti.  It is only needed if you are using E.V.E. clouds (not included, see links below)
+
+_____________________________________________
+
+
+
 
 supports (not included):
 Distant Object Enhancement bis 	http://kerbalstuff.com/mod/403
