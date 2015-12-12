@@ -29,7 +29,7 @@ _____________________________________________
   
 supports (not included):  
 Distant Object Enhancement bis 	http://kerbalstuff.com/mod/403  
-E.V.E. 			http://forum.kerbalspaceprogram.com/index.php?/topic/51142
+E.V.E. 			http://forum.kerbalspaceprogram.com/index.php?/topic/51142  
 Galactic Neighborhood http://forum.kerbalspaceprogram.com/threads/128856  
   
     
