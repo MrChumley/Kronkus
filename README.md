@@ -15,8 +15,9 @@ INCLUDES:
   _____________________________________________  
   
 Installation:  
-To add the Kronkus planet pack to Kerbal Space Program (1.0.4) copy the Kronkus folder into your (KSP directory)/GameData folder.  
-    
+To add the Kronkus planet pack to Kerbal Space Program copy the Kronkus folder into your (KSP directory)/GameData folder.  
+If you use E.V.E. Merge contents of BoulderCo folder.  
+  
 Requires Kopernicus, and Module Manager to work!  
 Kopernicus forum thread: http://forum.kerbalspaceprogram.com/threads/114649    
 Module Manager forum thread: http://forum.kerbalspaceprogram.com/threads/55219  
