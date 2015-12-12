@@ -35,6 +35,6 @@ Galactic Neighborhood http://forum.kerbalspaceprogram.com/threads/128856
     
       
 License:  
-9-13-2015  
+12-12-2015  
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/  
 To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerbalspaceprogram.com/threads/132379) has waived all copyright and related or neighboring rights to "The Kronkus Planet Pack" including Kronkus.cfg, Meelo.cfg, Sketti.cfg, Eahpeh.cfg, and associated images. This work is published from: United States.  
