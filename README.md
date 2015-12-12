@@ -18,7 +18,7 @@ To add the Kronkus planet pack to Kerbal Space Program (1.0.4) copy the Kronkus 
     
 Requires Kopernicus, and Module Manager to work!  
 Kopernicus forum thread: http://forum.kerbalspaceprogram.com/threads/114649    
-Module Manager 2.6.8 forum thread: http://forum.kerbalspaceprogram.com/threads/55219  
+Module Manager forum thread: http://forum.kerbalspaceprogram.com/threads/55219  
     
 The BoulderCo folder contains a cloud texture used by Sketti.  It is only needed if you are using E.V.E. clouds (not included, see links below)  
   
@@ -29,7 +29,7 @@ _____________________________________________
   
 supports (not included):  
 Distant Object Enhancement bis 	http://kerbalstuff.com/mod/403  
-E.V.E. (7-4)			http://github.com/rbray89/EnvironmentalVisualEnhancements/releases/download/7-4/EnvironmentalVisualEnhancements-7-4.zip  
+E.V.E. 			http://forum.kerbalspaceprogram.com/index.php?/topic/51142  
 Galactic Neighborhood http://forum.kerbalspaceprogram.com/threads/128856  
   
     
