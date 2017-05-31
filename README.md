@@ -1,12 +1,12 @@
 # Kronkus  
-Kronkus planet pack for KSP 1.0.5  
-Kopernicus v0.6 and ModuleManager REQUIRED!  
+Kronkus planet pack for KSP 1.2.x and 1.3 
+Kopernicus and ModuleManager REQUIRED!  
 INCLUDES:  
 1 Gas Giant  
 *Kronkus  
 
-4 Planets  
-*Sketti
+4 Moons  
+*Scool
 *Meelo
 *Eahpeh
 *Kersex
@@ -16,13 +16,11 @@ INCLUDES:
   
 Installation:  
 To add the Kronkus planet pack to Kerbal Space Program copy the Kronkus folder into your (KSP directory)/GameData folder.  
-If you use E.V.E. Merge contents of BoulderCo folder.  
   
 Requires Kopernicus, and Module Manager to work!  
 Kopernicus forum thread: http://forum.kerbalspaceprogram.com/threads/114649    
 Module Manager forum thread: http://forum.kerbalspaceprogram.com/threads/55219  
     
-The BoulderCo folder contains a cloud texture used by Sketti.  It is only needed if you are using E.V.E. clouds (not included, see links below)  
   
 _____________________________________________  
   
@@ -30,8 +28,7 @@ _____________________________________________
   
   
 supports (not included):  
-Distant Object Enhancement bis 	http://kerbalstuff.com/mod/403  
-E.V.E. 			http://forum.kerbalspaceprogram.com/index.php?/topic/51142  
+Distant Object Enhancement bis 	http://kerbalstuff.com/mod/403   
 Galactic Neighborhood http://forum.kerbalspaceprogram.com/threads/128856  
   
     
@@ -39,4 +36,4 @@ Galactic Neighborhood http://forum.kerbalspaceprogram.com/threads/128856
 License:  
 12-12-2015  
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/  
-To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerbalspaceprogram.com/threads/132379) has waived all copyright and related or neighboring rights to "The Kronkus Planet Pack" including Kronkus.cfg, Meelo.cfg, Sketti.cfg, Eahpeh.cfg, and associated images. This work is published from: United States.  
+To the extent possible under law, MrChumley (KSP forum thread: http://forum.kerbalspaceprogram.com/threads/132379) has waived all copyright and related or neighboring rights to "The Kronkus Planet Pack" including Kronkus.cfg, Meelo.cfg, Scool.cfg, Eahpeh.cfg, and associated images. This work is published from: United States.  
