@@ -30,6 +30,7 @@ _____________________________________________
 supports (not included):  
 Distant Object Enhancement bis 	http://kerbalstuff.com/mod/403   
 Galactic Neighborhood http://forum.kerbalspaceprogram.com/threads/128856  
+Contract Configurator http://forum.kerbalspaceprogram.com/index.php?/topic/91625
   
     
       
