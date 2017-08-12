@@ -1,8 +1,9 @@
 # Kronkus  
-Kronkus planet pack for KSP 1.2.x and 1.3 
-Kopernicus and ModuleManager REQUIRED!  
-INCLUDES:  
-1 Gas Giant  
+Kronkus planet pack for KSP 1.2.x and 1.3 www.Kerbalspaceprogram.com
+Kopernicus and ModuleManager REQUIRED!  
+
+INCLUDES: 
+1 Gas Giant  
 *Kronkus  
 
 4 Moons  
