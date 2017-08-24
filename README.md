@@ -32,7 +32,8 @@ supports (not included):
 Distant Object Enhancement bis 	http://kerbalstuff.com/mod/403   
 Galactic Neighborhood http://forum.kerbalspaceprogram.com/threads/128856  
 Contract Configurator http://forum.kerbalspaceprogram.com/index.php?/topic/91625
-Environmental Visual Enhancements v1.2.2-1 http://forum.kerbalspaceprogram.com/index.php?/topic/149733-13-122-environmentalvisualenhancements-122-1/
+
+Environmental Visual Enhancements v1.2.2-1 http://forum.kerbalspaceprogram.com/index.php?/topic/149733
 
 License: 
 12-12-2015  
