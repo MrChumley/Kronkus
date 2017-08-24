@@ -35,6 +35,8 @@ Contract Configurator http://forum.kerbalspaceprogram.com/index.php?/topic/91625
 
 Environmental Visual Enhancements v1.2.2-1 http://forum.kerbalspaceprogram.com/index.php?/topic/149733
 
+©2015
+
 License: 
 12-12-2015  
 CC0- Full text @ http://creativecommons.org/publicdomain/zero/1.0/  
