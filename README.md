@@ -1,5 +1,5 @@
 # Kronkus  
-Kronkus planet pack for KSP 1.2.x and 1.3 www.Kerbalspaceprogram.com
+Kronkus planet pack for KSP 1.5.x www.Kerbalspaceprogram.com
 Kopernicus and ModuleManager REQUIRED!  
 
 INCLUDES: 
@@ -12,7 +12,7 @@ INCLUDES:
 *Eahpeh
 *Kersex
   
-  
+  https://github.com/MrChumley/Kronkus
   _____________________________________________  
   
 Installation:  
