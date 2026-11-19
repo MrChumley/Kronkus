@@ -1,0 +1,29 @@
+{
+    "NAME": "Kronkus",
+    "URL": "https://raw.githubusercontent.com/MrChumley/Kronkus/ksp-1.12/GameData/Kronkus/Kronkus.version",
+    "DOWNLOAD": "https://github.com/MrChumley/Kronkus/releases",
+    "GITHUB": {
+        "USERNAME": "MrChumley",
+        "REPOSITORY": "Kronkus"
+    },
+    "VERSION": {
+        "MAJOR": 1,
+        "MINOR": 6,
+        "PATCH": 0
+    },
+    "KSP_VERSION": {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 5
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 0
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 99
+    }
+}
